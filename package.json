@@ -1,0 +1,9 @@
+{
+  "name": "ztoxwv--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "events": "3.3.0",
+    "rxjs": "7.1.0"
+  }
+}
